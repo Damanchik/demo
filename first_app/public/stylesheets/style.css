@@ -1,8 +1,46 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+
+background-image: url(https://pp.userapi.com/c419621/v419621804/5f14/_i8gBaLpLrY.jpg);
+background-position:right 40px; 
+background-repeat:repeat-y;
+background-size: cover;
 }
 
-a {
-  color: #F0BFFF;
+
+img {
+ width:240px; 
+ height:243px;
+ position: relative;
+ top: 380px;
+ left: 60px;
+ opacity:0.75
 }
+  
+p2 {
+  width:240px; 
+ height:243px;
+   position: relative;
+ top: 0px;
+ left: 230px;
+} 
+
+
+p3 {
+  width:240px; 
+ height:243px;
+   position: relative;
+ top: 0px;
+ left:420px;
+} 
+
+
+
+
+p4 {width:1000px; 
+ height:243px;
+   position: relative;
+ top:-190px;
+ left:400px;
+
+  color:black;
+  background: rgb(225,238,253) repeat-x;}
