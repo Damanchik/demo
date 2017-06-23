@@ -12,6 +12,7 @@ router.get('/', function(req, res, next) {
 router.get('/kontakt', function(req, res, next) {
   res.sendFile(path.join(__dirname + '/../views/index2.html'));
 });
-
+ 
+router.get(mmm);
 
 module.exports = router;
